@@ -1,0 +1,81 @@
+warehouse_id,city,capacity_units,active
+warehouse_id_1,Port Lydiaport,4100,True
+warehouse_id_2,Naomiton,4661,True
+warehouse_id_3,Tonyton,6259,False
+warehouse_id_4,Scottton,5715,False
+warehouse_id_5,Harrisontown,6078,True
+warehouse_id_6,West Alicia,5195,False
+warehouse_id_7,West Marie,4816,True
+warehouse_id_8,Millerfort,6358,False
+warehouse_id_9,East George,5315,False
+warehouse_id_10,South Staceymouth,5742,True
+warehouse_id_11,Port Jacquelineville,5393,True
+warehouse_id_12,South Ashley,5682,False
+warehouse_id_13,Rhysville,4688,False
+warehouse_id_14,Wilsonland,4691,True
+warehouse_id_15,Nielsenmouth,5494,False
+warehouse_id_16,Moorehaven,5049,False
+warehouse_id_17,East Josephland,4961,True
+warehouse_id_18,South Kelly,3506,True
+warehouse_id_19,New Lori,5304,False
+warehouse_id_20,Bowersshire,5356,False
+warehouse_id_21,Port Gregory,4962,False
+warehouse_id_22,New Kimberlyburgh,7145,False
+warehouse_id_23,New Ashleighfurt,4725,True
+warehouse_id_24,Briggsland,4964,True
+warehouse_id_25,Anthonyberg,4483,False
+warehouse_id_26,North Christianview,2553,False
+warehouse_id_27,Sandraland,5623,False
+warehouse_id_28,New Hayley,4974,False
+warehouse_id_29,Gordonmouth,5317,False
+warehouse_id_30,West Susanfort,4937,True
+warehouse_id_31,Clarkemouth,3791,False
+warehouse_id_32,Elizabethfurt,5725,True
+warehouse_id_33,West Paulchester,6077,True
+warehouse_id_34,South Monica,5231,False
+warehouse_id_35,Marioburgh,5682,False
+warehouse_id_36,Reynoldsburgh,5081,False
+warehouse_id_37,Port Emilytown,5157,True
+warehouse_id_38,Amberborough,5501,False
+warehouse_id_39,Vernonside,5585,False
+warehouse_id_40,North Bernardborough,4707,True
+warehouse_id_41,East Cindy,5238,False
+warehouse_id_42,Robertside,5124,True
+warehouse_id_43,Fryeville,4478,False
+warehouse_id_44,East Andrewborough,5388,True
+warehouse_id_45,West Amandaborough,5116,False
+warehouse_id_46,North Frankville,5061,False
+warehouse_id_47,Stewarttown,4251,True
+warehouse_id_48,West Teresaland,5614,True
+warehouse_id_49,Pritchardtown,4098,False
+warehouse_id_50,Port Sara,3779,False
+warehouse_id_51,Jennaberg,3897,False
+warehouse_id_52,Newtonburgh,5982,False
+warehouse_id_53,West Garrettfurt,6447,True
+warehouse_id_54,Philipmouth,4029,True
+warehouse_id_55,Jeffreyside,4437,True
+warehouse_id_56,Ryanchester,4478,True
+warehouse_id_57,Jessicaland,4957,True
+warehouse_id_58,Riddleborough,6079,True
+warehouse_id_59,Marianstad,5210,True
+warehouse_id_60,Hallshire,5273,True
+warehouse_id_61,Davisfort,5460,True
+warehouse_id_62,Lovestad,4330,True
+warehouse_id_63,Huntborough,5811,True
+warehouse_id_64,Port Jamie,6023,True
+warehouse_id_65,Josephinetown,4190,True
+warehouse_id_66,Smithtown,5974,True
+warehouse_id_67,Harrisonborough,4776,True
+warehouse_id_68,South Vincent,4031,True
+warehouse_id_69,Joelside,5562,False
+warehouse_id_70,East Michelle,5197,True
+warehouse_id_71,Lake Max,5735,False
+warehouse_id_72,Marilynside,4869,True
+warehouse_id_73,Gregorychester,4899,False
+warehouse_id_74,Christinaland,4567,False
+warehouse_id_75,Port Nigelhaven,4765,True
+warehouse_id_76,Damianville,5357,False
+warehouse_id_77,Chloeberg,5451,False
+warehouse_id_78,Pittmanberg,4150,True
+warehouse_id_79,Nathanland,5291,True
+warehouse_id_80,Lake Simon,5433,True

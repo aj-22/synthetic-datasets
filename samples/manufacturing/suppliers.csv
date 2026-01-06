@@ -1,0 +1,121 @@
+supplier_id,supplier_name,country,contact_email,preferred
+2000,Farley-Harris,IN,abigailthompson@example.net,False
+2001,Villa-Moore,CN,gareth84@example.org,False
+2002,Gonzalez and Sons,UK,jperez@example.net,True
+2003,Hopkins-Porter,UK,mosscraig@example.net,True
+2004,Willis LLC,IN,landrycraig@example.com,False
+2005,Kline and Sons,CN,rachelgodfrey@example.org,False
+2006,Bishop-Bell,IN,dennishayes@example.org,False
+2007,Johnson-Norton,US,claudia83@example.net,False
+2008,Anderson-Pugh,UK,readalexandra@example.com,True
+2009,Ball Group,IN,rhondaharris@example.com,True
+2010,"Manning, Levy and Holland",UK,weaverderek@example.com,True
+2011,"Harvey, George and Hayward",IN,glee@example.com,True
+2012,Simmons-Wallace,CN,grantjonathan@example.com,False
+2013,Cole Group,UK,khunt@example.org,False
+2014,Wilkins-Martin,IN,abbie72@example.org,False
+2015,Brady and Sons,IN,davidhernandez@example.net,True
+2016,"Collier, Charles and Lane",DE,nashdaniel@example.net,False
+2017,"Doyle, Watson and Porter",US,ibrown@example.com,True
+2018,Pearce-Thompson,CN,ptaylor@example.net,True
+2019,"Page, Pearce and Cunningham",UK,mathew44@example.net,True
+2020,"Dyer, Thomas and Turner",DE,julianclark@example.net,True
+2021,"Baldwin, Owen and Frost",UK,deanhoward@example.org,True
+2022,Taylor-Chambers,CN,pamela54@example.net,True
+2023,Mitchell LLC,IN,micheal88@example.com,False
+2024,Escobar-Williams,UK,hudsonabigail@example.com,True
+2025,Brown Inc,DE,ethomas@example.org,True
+2026,Hart-Day,IN,tomsmith@example.org,False
+2027,Morales-Green,UK,kevinsinclair@example.com,False
+2028,"Griffith, Beck and Garcia",UK,srogers@example.com,False
+2029,Simmons and Sons,UK,donald76@example.org,True
+2030,"Martinez, Ortiz and Montoya",UK,mary23@example.org,True
+2031,Potts-Stephenson,US,georgiaheath@example.org,False
+2032,"Martin, Copeland and Fox",CN,cheryl41@example.org,False
+2033,Holland Group,IN,kevin75@example.com,True
+2034,"Woods, Martinez and Carter",UK,jason87@example.net,True
+2035,Baxter-Little,UK,ejacobson@example.com,False
+2036,Weber Inc,US,jordanharris@example.com,True
+2037,"Brown, Hunt and Edwards",CN,margaret60@example.com,False
+2038,Andrews-Holden,US,fosterashley@example.org,False
+2039,"Brady, Bell and Arellano",UK,kimberleythorpe@example.net,False
+2040,"Hansen, Lynn and Andrews",CN,jdonnelly@example.org,True
+2041,"Rowe, Robinson and Stephens",UK,paul54@example.net,True
+2042,Smith-Barnes,US,mary61@example.net,True
+2043,Williams-Jones,UK,samholmes@example.org,False
+2044,Humphreys LLC,CN,josephineberry@example.com,True
+2045,Robson-Lloyd,US,williamsamanda@example.org,False
+2046,Ware-Vasquez,UK,jamesbriggs@example.org,True
+2047,"Smith, Ford and Lawrence",US,nkelly@example.org,True
+2048,Mitchell and Sons,CN,mossdonna@example.org,False
+2049,"Rosario, Liu and Kramer",UK,nicole06@example.net,True
+2050,"Logan, Estes and Mcmahon",IN,qpena@example.com,False
+2051,"Martinez, Johnson and Anderson",DE,hsimpson@example.com,True
+2052,Patel Group,IN,kylebell@example.com,True
+2053,"Murphy, Wilkinson and Payne",US,blackburnmitchell@example.org,True
+2054,Jennings PLC,CN,watsonmichael@example.org,False
+2055,"Cole, Graham and Morgan",IN,lpalmer@example.net,False
+2056,"Harvey, Cohen and Anderson",IN,jeremysanderson@example.net,False
+2057,Johnson Group,CN,marilynwaters@example.org,True
+2058,Mays LLC,IN,scotterica@example.net,False
+2059,Hall-Kelly,DE,thomaswendy@example.com,True
+2060,"Jones, Burton and Gates",UK,lfitzgerald@example.org,False
+2061,Davis Ltd,CN,stewartlauren@example.net,True
+2062,Newton-Morris,IN,djohnson@example.net,True
+2063,Lopez-Herring,DE,waltersryan@example.com,True
+2064,"Sharp, Howard and Berry",UK,zpatton@example.com,True
+2065,"Williams, Thomas and Jones",UK,emily94@example.org,False
+2066,Patel LLC,IN,laurenjenkins@example.net,False
+2067,Howells-Thomson,CN,sallysimpson@example.net,True
+2068,Hammond PLC,DE,raymondfrost@example.net,True
+2069,"Pearson, Turner and White",IN,qcollins@example.net,True
+2070,Schofield-Spencer,UK,fhardy@example.net,False
+2071,John LLC,UK,nashkerry@example.net,False
+2072,"Stone, Turner and Williams",DE,delgadojulia@example.com,True
+2073,Gregory Ltd,DE,wmurray@example.com,True
+2074,Smith-Davies,CN,margaret77@example.net,True
+2075,Newman-Lee,DE,jasminelewis@example.org,False
+2076,Burton-Clark,DE,howellemily@example.com,True
+2077,"Ibarra, Smith and Martinez",US,john49@example.net,False
+2078,Holmes Group,UK,gillgerald@example.org,False
+2079,Moreno LLC,CN,jessica62@example.net,False
+2080,"Parker, Cooper and Bishop",US,jennifergray@example.org,True
+2081,Camacho Inc,UK,nelsonjimmy@example.net,True
+2082,Patel Inc,US,melanie70@example.org,True
+2083,Young-Hogan,UK,pmorris@example.org,False
+2084,Weiss Group,IN,rogernicholson@example.com,True
+2085,Tyler Ltd,CN,walvarado@example.com,False
+2086,Edwards-White,DE,keithramirez@example.net,True
+2087,Pope-Cook,CN,mccallmichael@example.org,True
+2088,"Harris, Harris and Hinton",CN,sianreid@example.net,False
+2089,"Cox, Rodriguez and Neal",UK,hollandjacob@example.com,True
+2090,Leblanc-Williams,UK,mparker@example.com,True
+2091,"Wilkins, Rice and Carr",IN,mmcdonald@example.net,False
+2092,Kay and Sons,UK,adamwolf@example.net,False
+2093,Shah-Pearce,IN,suttondanny@example.org,False
+2094,Anderson Ltd,IN,wellsnicholas@example.net,True
+2095,Obrien-Bray,CN,ukerr@example.net,True
+2096,"Jones, Bailey and Gaines",US,andrew00@example.org,False
+2097,Torres Inc,IN,rhys73@example.com,True
+2098,White Group,US,uharrell@example.org,True
+2099,Shelton-Peck,IN,george34@example.net,False
+2100,Martin-Burton,CN,lyonsdaniel@example.org,False
+2101,Hurst PLC,US,darren81@example.net,False
+2102,"Myers, Martin and Miller",IN,abbieelliott@example.net,False
+2103,Evans-Brown,DE,vyoung@example.com,True
+2104,"Charles, Sanchez and Henry",IN,simonrobinson@example.org,True
+2105,Peterson Ltd,IN,marilyn29@example.org,False
+2106,Roberts Group,UK,bowmanpatricia@example.com,False
+2107,Turner-Mason,UK,greenkelsey@example.com,True
+2108,Green and Sons,IN,brett87@example.net,False
+2109,Sullivan and Sons,DE,glenn06@example.com,True
+2110,"Roberts, Wilcox and Anderson",US,zherman@example.org,False
+2111,"Adams, Scott and Doyle",CN,clarkclifford@example.net,False
+2112,"Williams, Edwards and Woodward",CN,hartleyjoanne@example.net,True
+2113,"Martin, Wood and Taylor",IN,cooperthomas@example.net,True
+2114,"Parker, Duffy and Lopez",UK,bryanwalton@example.net,False
+2115,"Gomez, Hansen and Meyer",IN,irichardson@example.org,False
+2116,"Singleton, Brooks and Hall",UK,eleanorrobinson@example.com,True
+2117,Russell Group,CN,chloeatkinson@example.com,True
+2118,"Young, Bentley and Rees",UK,alexlawrence@example.com,False
+2119,"Gardner, Garza and Anderson",CN,tiffanyking@example.net,True
